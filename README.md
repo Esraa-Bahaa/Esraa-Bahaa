@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-Communications Engineering student with a growing focus on Data Analysis and Business Intelligence.
+Communications Engineering student & DEPI Data Analysis trainee , with a growing focus on Data Analysis and Business Intelligence.
 
 Skilled in Python, SQL, Excel, and Power BI, with hands-on experience in data cleaning, dashboard creation, and reporting through analytical projects and technical training.
 
