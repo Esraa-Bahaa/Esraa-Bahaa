@@ -30,7 +30,9 @@ Analyzing customer and sales data using Python, SQL, and Power BI to uncover bus
 ##  Currently Learning 
 
 -Advanced SQL for data analysis
+
 -Advanced Power BI dashboard development and DAX fundamentals
+
 -Introduction to Cloud Computing
 
 ##  Technical Skillset
