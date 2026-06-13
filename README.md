@@ -49,5 +49,4 @@ Analyzing customer and sales data using Python, SQL, and Power BI to uncover bus
 </p>
 
 
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
