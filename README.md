@@ -19,8 +19,8 @@ Skilled in Python, SQL, Excel, and Power BI, with hands-on experience in data cl
 
 Seeking internships and entry-level opportunities in data analytics.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username 
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/) -->
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+### [🏆 Check Out My Full Portfolio Website](https://esraa-bahaa.github.io/) 
       
 ##  What I'm Currently Working On 
 
