@@ -31,7 +31,7 @@ Analyzing customer and sales data using Python, SQL, and Power BI to uncover bus
 
 -Advanced SQL for data analysis
 
--Advanced Power BI dashboard development and DAX fundamentals
+-Advanced Power BI dashboard development 
 
 -Introduction to Cloud Computing
 
