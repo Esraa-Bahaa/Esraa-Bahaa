@@ -13,15 +13,15 @@
 </p>
 
 ## 🚀 About Me 
-Communications Engineering student & DEPI Data Analysis trainee , with a growing focus on Data Analysis and Business Intelligence.
+Electronics and Communications Engineering student focused on Data Analytics and Business Intelligence, with hands-on experience in data cleaning, analysis, and interactive dashboard development through training and practical projects.
 
-Skilled in Python, SQL, Excel, and Power BI, with hands-on experience in data cleaning, dashboard creation, and reporting through analytical projects and technical training.
+Completed the DEPI Data Analysis program, applying Python, SQL, Excel, and Power BI to solve data problems and deliver actionable insights.
 
-Seeking internships and entry-level opportunities in data analytics.
+Open to BI and Data Analysis internships and entry-level roles, as well as freelance projects.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://esraa-bahaa.github.io/) 
-      
+<!--   
 ##  What I'm Currently Working On 
 
 - Amazon E-commerce Analysis Project: 
@@ -34,7 +34,7 @@ Analyzing customer and sales data using Python, SQL, and Power BI to uncover bus
 -Advanced Power BI dashboard development 
 
 -Introduction to Cloud Computing
-
+-->
 ##  Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
